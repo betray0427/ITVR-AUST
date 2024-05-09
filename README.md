@@ -10,7 +10,7 @@
 | **SCConv** | [Li_SCConv_Spatial_and_Channel_Reconstruction_Convolution_for_Feature_Redundancy_CVPR_2023_paper.pdf (thecvf.com)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SCConv_Spatial_and_Channel_Reconstruction_Convolution_for_Feature_Redundancy_CVPR_2023_paper.pdf) | CVPR  | 2023 | [Python](https://github.com/cheng-haha/ScConv) | 汪佳伟 |
 |    MCF    |  [MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_MCF_Mutual_Correction_Framework_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.html?ref=https://githubhelp.com)    | CVPR       |2023      | [Python](https://github.com/WYC-321/MCF)  |刘宇涵|
 |  UIU-Net  |   [UIU-Net: U-Net in U-Net for Infrared Small Object Detection](https://ieeexplore.ieee.org/document/9989433)  | IEEE Transactions on Image Processing      |  2023    |[python](https://github.com/danfenghong/IEEE_TIP_UIU-Net.git)     | 孙梦伟     |
-|       |       |       |      |      |      |
+|    Swin-Unet   |   Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation    |  CVPR     |   2021   |    [Python](https://github.com/HuCaoFighting/Swin-Unet)   |   周沁坤   |
 |       |       |       |      |      |      |
 
 
